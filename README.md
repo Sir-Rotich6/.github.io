@@ -1,2 +1,2 @@
 # .github.io
-/Designing a professional website 
+Designing a professional website 
